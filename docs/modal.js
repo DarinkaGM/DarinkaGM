@@ -111,7 +111,7 @@ span5.onclick = function() {
 //------------------------------------
 const showModal6 = function(){
     modal6.style.display = "block";
-    modalImg6.src = "media/pleo.gif";
+    modalImg6.src = "media/pleo.jpg";
 }
 
 for (var i = 0; i < img6.length; i++) {
