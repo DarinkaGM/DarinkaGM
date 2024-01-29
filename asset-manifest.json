@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/DarinkaGM/static/css/main.31fe52e0.css",
+    "main.js": "/DarinkaGM/static/js/main.b16885d2.js",
+    "static/js/787.a9e02181.chunk.js": "/DarinkaGM/static/js/787.a9e02181.chunk.js",
+    "static/media/giphy.gif": "/DarinkaGM/static/media/giphy.a19266e78ac11a0b2bbf.gif",
+    "static/media/GUIDEIT-Modal.jpg": "/DarinkaGM/static/media/GUIDEIT-Modal.0b56859485f2912be397.jpg",
+    "static/media/ABEL-thumbnail.jpg": "/DarinkaGM/static/media/ABEL-thumbnail.fb74e5025e6c47f5b5ba.jpg",
+    "static/media/Plants-UI-Modal.jpg": "/DarinkaGM/static/media/Plants-UI-Modal.58f8cf2ad177ceba16b5.jpg",
+    "static/media/GUIDEIT-thumbnail.jpg": "/DarinkaGM/static/media/GUIDEIT-thumbnail.3fe042a54861c45db420.jpg",
+    "static/media/ABEL-Modal.jpg": "/DarinkaGM/static/media/ABEL-Modal.359234df3d7ceeabffca.jpg",
+    "static/media/profile-picture.jpg": "/DarinkaGM/static/media/profile-picture.b8895f8e0b1bfaa7e09e.jpg",
+    "static/media/weather.gif": "/DarinkaGM/static/media/weather.300cf472f073f63a1933.gif",
+    "static/media/podcast-thumbnail.jpg": "/DarinkaGM/static/media/podcast-thumbnail.dd222ffccf823d2253ef.jpg",
+    "static/media/Plants-UI-Thumbnail.jpg": "/DarinkaGM/static/media/Plants-UI-Thumbnail.f3b74ee3de80b471c197.jpg",
+    "index.html": "/DarinkaGM/index.html",
+    "main.31fe52e0.css.map": "/DarinkaGM/static/css/main.31fe52e0.css.map",
+    "main.b16885d2.js.map": "/DarinkaGM/static/js/main.b16885d2.js.map",
+    "787.a9e02181.chunk.js.map": "/DarinkaGM/static/js/787.a9e02181.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31fe52e0.css",
+    "static/js/main.b16885d2.js"
+  ]
+}
