@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/DarinkaGM/static/css/main.31fe52e0.css",
-    "main.js": "/DarinkaGM/static/js/main.7b2ea790.js",
-    "static/js/787.4f57ac2b.chunk.js": "/DarinkaGM/static/js/787.4f57ac2b.chunk.js",
+    "main.js": "/DarinkaGM/static/js/main.eab8978d.js",
+    "static/js/787.db2ada00.chunk.js": "/DarinkaGM/static/js/787.db2ada00.chunk.js",
     "static/media/giphy.gif": "/DarinkaGM/static/media/giphy.a19266e78ac11a0b2bbf.gif",
     "static/media/GUIDEIT-Modal.jpg": "/DarinkaGM/static/media/GUIDEIT-Modal.0b56859485f2912be397.jpg",
     "static/media/ABEL-thumbnail.jpg": "/DarinkaGM/static/media/ABEL-thumbnail.fb74e5025e6c47f5b5ba.jpg",
@@ -15,11 +15,11 @@
     "static/media/Plants-UI-Thumbnail.jpg": "/DarinkaGM/static/media/Plants-UI-Thumbnail.f3b74ee3de80b471c197.jpg",
     "index.html": "/DarinkaGM/index.html",
     "main.31fe52e0.css.map": "/DarinkaGM/static/css/main.31fe52e0.css.map",
-    "main.7b2ea790.js.map": "/DarinkaGM/static/js/main.7b2ea790.js.map",
-    "787.4f57ac2b.chunk.js.map": "/DarinkaGM/static/js/787.4f57ac2b.chunk.js.map"
+    "main.eab8978d.js.map": "/DarinkaGM/static/js/main.eab8978d.js.map",
+    "787.db2ada00.chunk.js.map": "/DarinkaGM/static/js/787.db2ada00.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.31fe52e0.css",
-    "static/js/main.7b2ea790.js"
+    "static/js/main.eab8978d.js"
   ]
 }
