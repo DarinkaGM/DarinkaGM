@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DarinkaGM/static/css/main.e659c16f.css",
-    "main.js": "/DarinkaGM/static/js/main.fa77eca8.js",
+    "main.js": "/DarinkaGM/static/js/main.a29438be.js",
     "static/js/787.db2ada00.chunk.js": "/DarinkaGM/static/js/787.db2ada00.chunk.js",
     "static/media/giphy.gif": "/DarinkaGM/static/media/giphy.a19266e78ac11a0b2bbf.gif",
     "static/media/GUIDEIT-Modal.jpg": "/DarinkaGM/static/media/GUIDEIT-Modal.0b56859485f2912be397.jpg",
@@ -15,11 +15,11 @@
     "static/media/Plants-UI-Thumbnail.jpg": "/DarinkaGM/static/media/Plants-UI-Thumbnail.f3b74ee3de80b471c197.jpg",
     "index.html": "/DarinkaGM/index.html",
     "main.e659c16f.css.map": "/DarinkaGM/static/css/main.e659c16f.css.map",
-    "main.fa77eca8.js.map": "/DarinkaGM/static/js/main.fa77eca8.js.map",
+    "main.a29438be.js.map": "/DarinkaGM/static/js/main.a29438be.js.map",
     "787.db2ada00.chunk.js.map": "/DarinkaGM/static/js/787.db2ada00.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e659c16f.css",
-    "static/js/main.fa77eca8.js"
+    "static/js/main.a29438be.js"
   ]
 }
