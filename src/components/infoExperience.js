@@ -11,7 +11,7 @@ function InfoExperience({ title, dateRange, location, description, projectLink }
   };
   
   return (
-    <li>
+    <>
       <b>{title}</b><br/>
       {dateRange}<br/> <FontAwesomeIcon icon={faMapMarker} style={{ fontSize: 'small', color: 'gray' }}/> {location}
       <br/>
@@ -26,7 +26,7 @@ function InfoExperience({ title, dateRange, location, description, projectLink }
           {projectLink && <a href={projectLink}><u>See the project</u></a>}
         </div>
       )}
-    </li>
+    </>
   );
 }
 

@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(255, 255, 255, 0.836);
+  background-color: #ffffffd5;
   background-size: contain;
   height: auto;
   font-family: 'Abril Fatface', serif;
@@ -41,6 +41,10 @@ ul{
 li {
   padding: 3%;
   list-style-type: none;
+}
+
+.flagImg{
+  height: 1.5em;
 }
 
 .two-columns-list {
@@ -125,7 +129,7 @@ li {
 .e-mail {float:right; width: 50%; }
 
 .fa{color:  #3C918D}
-.fa:hover {color:  #D96C75;}
+.fa:hover {color:  #303333;}
 
 
 @media screen and (max-width: 700px) {
@@ -288,7 +292,7 @@ li {
 .top-link:hover {background-color:#3C918D;
 color: white}
 
-a:hover {color:  #D96C75;}
+a:hover {color:  #303333;}
 
 .App-link {
   color: #61dafb;
