@@ -7,7 +7,7 @@ function MainContainer() {
     const skills = [
       "Java", "Kotlin", "JavaScript", 
          "SQL", "HTML, CSS", "React", 
-        "FIGMA/Adobe XD", "Agile Methodologies"
+        "FIGMA / Adobe XD", "Agile Methodologies"
       ];
     const languages = [
         "Spanish (Native)", "English (Proficient)", "French (Intermediate)", "Danish (Intermediate)", "Swedish (Beginner)"
