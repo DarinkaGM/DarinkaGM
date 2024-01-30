@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/DarinkaGM/static/css/main.7cfa50c3.css",
+    "main.css": "/DarinkaGM/static/css/main.d2c7d1ae.css",
     "main.js": "/DarinkaGM/static/js/main.a6ce46b7.js",
     "static/js/787.db2ada00.chunk.js": "/DarinkaGM/static/js/787.db2ada00.chunk.js",
     "static/media/giphy.gif": "/DarinkaGM/static/media/giphy.a19266e78ac11a0b2bbf.gif",
@@ -14,12 +14,12 @@
     "static/media/podcast-thumbnail.jpg": "/DarinkaGM/static/media/podcast-thumbnail.dd222ffccf823d2253ef.jpg",
     "static/media/Plants-UI-Thumbnail.jpg": "/DarinkaGM/static/media/Plants-UI-Thumbnail.f3b74ee3de80b471c197.jpg",
     "index.html": "/DarinkaGM/index.html",
-    "main.7cfa50c3.css.map": "/DarinkaGM/static/css/main.7cfa50c3.css.map",
+    "main.d2c7d1ae.css.map": "/DarinkaGM/static/css/main.d2c7d1ae.css.map",
     "main.a6ce46b7.js.map": "/DarinkaGM/static/js/main.a6ce46b7.js.map",
     "787.db2ada00.chunk.js.map": "/DarinkaGM/static/js/787.db2ada00.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7cfa50c3.css",
+    "static/css/main.d2c7d1ae.css",
     "static/js/main.a6ce46b7.js"
   ]
 }
