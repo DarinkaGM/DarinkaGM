@@ -1,11 +1,11 @@
 .collapsible {
-    background-color: rgb(255, 255, 255);
+    background-color: transparent;
     color:  #D96C75;
     cursor: pointer;
     width: auto;
     border: none;
     text-align: left;
-    font-size: 15px;
+    font-size: .7em;
     text-decoration: underline;
     font-weight: bold;
   }

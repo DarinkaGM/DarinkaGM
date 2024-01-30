@@ -1,20 +1,22 @@
 body {
-  background-color: rgb(252, 248, 255);
+  background-color: rgba(255, 255, 255, 0.836);
   background-size: contain;
   height: auto;
-  font-family: "Montserrat";
-  font-weight: lighter;
+  font-family: 'Abril Fatface', serif;
+  font-family: 'Mulish', sans-serif;
   color: rgb(57, 57, 57);
+  margin: 0;
 }
-/* element-selector */
-/* canvas {
-  position: fixed; 
-  width: 100vw; 
-  height: 100vh; 
-} */
 
-.vanta-can{
-  position: fixed;
+.bg {
+  height: 100vh;
+  width: 100vw;
+}
+
+.scrollable {
+  overflow-y: scroll;
+  height: 100vh;
+  width: 100vw;
 }
 
 a {
@@ -24,16 +26,17 @@ a {
 
 h2 {
   text-align: center;
-  color: #3C918D;
+  color: #303333;
 }
 
 p {
   padding: 3%;
+  font-size: 0.9em;
 }
 
 ul{
   padding: 3%;
-  line-height: 2em;
+  line-height: 1.5em;
 }
 li {
   padding: 3%;
@@ -57,7 +60,7 @@ li {
   height: auto;
   padding:2%;
   margin-left: 4%;
-  background-color: rgba(255, 255, 255, 0.945);
+  background-color: rgba(255, 255, 255, 0.836);
   box-shadow: 20px 20px 20px rgba(36, 36, 36, 0.05);
   float: left;
   font-size: larger;
@@ -75,10 +78,10 @@ li {
   margin-right: 4%;
   width: 30%;
   height: auto;
-  line-height: 2em;
+  line-height: 1.5em;
   position: relative;
   
-  background-color: rgba(255, 255, 255, 0.945);
+  background-color: rgba(255, 255, 255, 0.836);
   box-shadow: 20px 20px 20px rgba(36, 36, 36, 0.05);
 
   float: right;
@@ -90,9 +93,9 @@ li {
 
 .portfolio {
   position: relative;
-  line-height: 2em;
+  line-height: 1.5em;
   float: right;
-  background-color: rgba(255, 255, 255, 0.945);
+  background-color: rgba(255, 255, 255, 0.836);
   width: 60%;
   height: auto;
   padding: 5%;

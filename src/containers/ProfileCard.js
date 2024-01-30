@@ -10,7 +10,7 @@ function ProfileCard() {
       <div class="box">
       <img className="profile-picture" src={profilePicture} alt="Profile picture" />
       <h2>Darinka</h2>
-      <p>Hej! I'm a software developer based in Copenhagen. Feel free to get in touch.</p>
+      <p>Hej! I'm a software developer based in Copenhagen</p>
       <div className="icons">
         <a href="https://www.linkedin.com/in/darinkagm/">
           <FontAwesomeIcon icon={faLinkedin} style={{ fontSize: '2rem', margin: ".2rem" }} />

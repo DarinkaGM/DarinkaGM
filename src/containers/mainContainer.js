@@ -23,9 +23,9 @@ function MainContainer() {
         <div>
         <SkillsList title="Skills" skills={skills} />
         </div>
-        <div>
+        {/* <div>
         <SkillsList title="Currently learning" skills={learning} />
-        </div>
+        </div> */}
         <div>
         <ExperienceSection/>
         </div>

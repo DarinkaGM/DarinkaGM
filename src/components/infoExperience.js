@@ -17,7 +17,7 @@ function InfoExperience({ title, dateRange, location, description, projectLink }
       <br/>
       {description && (
         <button type="button" className="collapsible" onClick={toggleCollapsible}>
-          Read description
+          Details
         </button>
       )}
       {isOpen && description && (
