@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/DarinkaGM/static/css/main.1c13a46e.css",
-    "main.js": "/DarinkaGM/static/js/main.4a58bf6a.js",
+    "main.css": "/DarinkaGM/static/css/main.484d4ef3.css",
+    "main.js": "/DarinkaGM/static/js/main.2b281702.js",
     "static/js/787.db2ada00.chunk.js": "/DarinkaGM/static/js/787.db2ada00.chunk.js",
     "static/media/giphy.gif": "/DarinkaGM/static/media/giphy.a19266e78ac11a0b2bbf.gif",
     "static/media/GUIDEIT-Modal.jpg": "/DarinkaGM/static/media/GUIDEIT-Modal.0b56859485f2912be397.jpg",
@@ -13,13 +13,14 @@
     "static/media/weather.gif": "/DarinkaGM/static/media/weather.300cf472f073f63a1933.gif",
     "static/media/podcast-thumbnail.jpg": "/DarinkaGM/static/media/podcast-thumbnail.dd222ffccf823d2253ef.jpg",
     "static/media/Plants-UI-Thumbnail.jpg": "/DarinkaGM/static/media/Plants-UI-Thumbnail.f3b74ee3de80b471c197.jpg",
+    "static/media/united-kingdom.png": "/DarinkaGM/static/media/united-kingdom.789ff1da7dc0b7ff0220.png",
     "index.html": "/DarinkaGM/index.html",
-    "main.1c13a46e.css.map": "/DarinkaGM/static/css/main.1c13a46e.css.map",
-    "main.4a58bf6a.js.map": "/DarinkaGM/static/js/main.4a58bf6a.js.map",
+    "main.484d4ef3.css.map": "/DarinkaGM/static/css/main.484d4ef3.css.map",
+    "main.2b281702.js.map": "/DarinkaGM/static/js/main.2b281702.js.map",
     "787.db2ada00.chunk.js.map": "/DarinkaGM/static/js/787.db2ada00.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c13a46e.css",
-    "static/js/main.4a58bf6a.js"
+    "static/css/main.484d4ef3.css",
+    "static/js/main.2b281702.js"
   ]
 }
