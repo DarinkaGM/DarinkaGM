@@ -16,10 +16,10 @@ function SkillsList({ title, skills }) {
     <div>
       <h2>{title}</h2>
       <Box sx={{ flexGrow: 2 }}>
-        <Grid container spacing={1}>
+        <Grid container spacing={1} sx={{textAlign: "center"}}>
           {skills.map((skill, index) => (
             <Grid key={index} xs={4} md={3}>
-              <Item sx={{ borderRadius: 0, height: '4.5em', alignItems: 'center', textAlign: 'center', backgroundColor: '#ffffffd5'}} elevation={0}>
+              <Item sx={{ borderRadius: 0, height: 'auto', alignItems: 'center', textAlign: 'center', backgroundColor: '#ffffffd5'}} elevation={0}>
                 {skill.imagePath && <img src={skill.imagePath} alt="flag" className="flagImg"/>} <br/>
                 {skill.language || skill}
               </Item> 
