@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/DarinkaGM/static/css/main.c05da233.css",
-    "main.js": "/DarinkaGM/static/js/main.d916352a.js",
+    "main.js": "/DarinkaGM/static/js/main.65343c28.js",
     "static/js/787.db2ada00.chunk.js": "/DarinkaGM/static/js/787.db2ada00.chunk.js",
     "static/media/giphy.gif": "/DarinkaGM/static/media/giphy.a19266e78ac11a0b2bbf.gif",
     "static/media/GUIDEIT-Modal.jpg": "/DarinkaGM/static/media/GUIDEIT-Modal.0b56859485f2912be397.jpg",
@@ -14,7 +14,9 @@
     "static/media/podcast-thumbnail.jpg": "/DarinkaGM/static/media/podcast-thumbnail.dd222ffccf823d2253ef.jpg",
     "static/media/Plants-UI-Thumbnail.jpg": "/DarinkaGM/static/media/Plants-UI-Thumbnail.f3b74ee3de80b471c197.jpg",
     "static/media/Zeeguu-md.png": "/DarinkaGM/static/media/Zeeguu-md.042ce98ec50e72e44006.png",
+    "static/media/chat-app-md.gif": "/DarinkaGM/static/media/chat-app-md.904c276174ddfae31940.gif",
     "static/media/Zeeguu-TH.png": "/DarinkaGM/static/media/Zeeguu-TH.17eac9032feb6d45276f.png",
+    "static/media/chat-app-th.png": "/DarinkaGM/static/media/chat-app-th.e029ea13732a346c90cb.png",
     "static/media/atom.png": "/DarinkaGM/static/media/atom.ac9979693620f0a96231.png",
     "static/media/agile.png": "/DarinkaGM/static/media/agile.887ddfefeb853bee5c98.png",
     "static/media/united-kingdom.png": "/DarinkaGM/static/media/united-kingdom.789ff1da7dc0b7ff0220.png",
@@ -25,11 +27,11 @@
     "static/media/figma.png": "/DarinkaGM/static/media/figma.f67e927070505c588802.png",
     "index.html": "/DarinkaGM/index.html",
     "main.c05da233.css.map": "/DarinkaGM/static/css/main.c05da233.css.map",
-    "main.d916352a.js.map": "/DarinkaGM/static/js/main.d916352a.js.map",
+    "main.65343c28.js.map": "/DarinkaGM/static/js/main.65343c28.js.map",
     "787.db2ada00.chunk.js.map": "/DarinkaGM/static/js/787.db2ada00.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c05da233.css",
-    "static/js/main.d916352a.js"
+    "static/js/main.65343c28.js"
   ]
 }
