@@ -114,11 +114,13 @@ li {
   display: flex;
   flex-direction: row;
   width: 100%;
+  padding: 1em;
 }
 
 .myImg {
-  width: 70%;
+  width: 12em;
   padding: 1%;
+  margin: 2em;
   cursor: pointer;
   transition: 0.3s;
 }

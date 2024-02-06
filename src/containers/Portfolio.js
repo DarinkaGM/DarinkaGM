@@ -6,6 +6,8 @@ import abelTh from '../media/ABEL-thumbnail.jpg';
 import abelMd from '../media/ABEL-Modal.jpg';
 import guideTh from '../media/GUIDEIT-thumbnail.jpg';
 import guideMd from '../media/GUIDEIT-Modal.jpg';
+import ZeeguuTH from '../media/Zeeguu-TH.png';
+import ZeeguuMD from '../media/Zeeguu-md.png';
 import plantsTh from '../media/Plants-UI-Thumbnail.jpg';
 import plantsMd from '../media/Plants-UI-Modal.jpg';
 import pod from '../media/podcast-thumbnail.jpg';
@@ -21,6 +23,7 @@ function Portfolio() {
         <PortfolioItem thumbnailSrc={guideTh} alt="Guide-IT Project" modalImgSrc={guideMd}/>
       </PortfolioCategory>
       <PortfolioCategory title="UI Design">
+        <PortfolioItem thumbnailSrc={ZeeguuTH} alt="Redesign for Zeeguu.org" modalImgSrc={ZeeguuMD} />
         <PortfolioItem thumbnailSrc={plantsTh} alt="Interface for an online plants shop" modalImgSrc={plantsMd} />
         <PortfolioItem thumbnailSrc={pod} alt="Interface for a podcast App" modalImgSrc={pod}/>
       </PortfolioCategory>
