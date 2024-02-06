@@ -12,6 +12,8 @@ import plantsTh from '../media/Plants-UI-Thumbnail.jpg';
 import plantsMd from '../media/Plants-UI-Modal.jpg';
 import pod from '../media/podcast-thumbnail.jpg';
 import searcher from '../media/giphy.gif';
+import chatappTH from '../media/chat-app-th.png';
+import chatappMD from '../media/chat-app-md.gif';
 import Modal from './Modal';
 
 function Portfolio() {
@@ -27,7 +29,8 @@ function Portfolio() {
         <PortfolioItem thumbnailSrc={plantsTh} alt="Interface for an online plants shop" modalImgSrc={plantsMd} />
         <PortfolioItem thumbnailSrc={pod} alt="Interface for a podcast App" modalImgSrc={pod}/>
       </PortfolioCategory>
-      <PortfolioCategory title="Coding">
+      <PortfolioCategory title="JS">
+        <PortfolioItem thumbnailSrc={chatappTH} alt="Weather App" modalImgSrc={chatappMD}/>
         <PortfolioItem thumbnailSrc={weather} alt="Weather App" modalImgSrc={weather}/>
         <PortfolioItem thumbnailSrc={searcher} alt="Giphy searcher" modalImgSrc={searcher}/>
       </PortfolioCategory>
